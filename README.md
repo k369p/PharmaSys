@@ -27,10 +27,10 @@ It includes inventory tracking, prescription management, billing, insurance, and
 |-------|----------|
 | ![Login](./assets/Login.png) | ![Register](./assets/Register.png) |
 
-### Dashboard View
+### Desktop View
 | Login | Register |
 |-------|----------|
-| ![Login](./assets/Dashboard-Login.png) | ![Register](./assets/Dashboard-Register.png) |
+| ![Login](./assets/Desktop-Login.png) | ![Register](./assets/Desktop-Register.png) |
 
 ---
 
@@ -60,7 +60,7 @@ It includes inventory tracking, prescription management, billing, insurance, and
 
 | Insurance | Medical Info |
 |----------|--------------|
-| ![Insurance](./assets/Insuarance.png) | ![Medical Info](./assets/Medical-Info.png) |
+| ![Insurance](./assets/Insaurance.png) | ![Medical Info](./assets/Medical-Info.png) |
 
 
 
