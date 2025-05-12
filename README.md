@@ -68,8 +68,8 @@ It includes inventory tracking, prescription management, billing, insurance, and
 
 ## 🛠️ Tech Stack
 
-- Next.js 15
-- React 19
+- Next.js
+- React
 - TypeScript
 - Tailwind CSS
 - Radix UI
